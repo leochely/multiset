@@ -37,3 +37,6 @@ class MultiSet(object):
                     erreurs += 1
             if erreurs > 0:
                 print "Ignoring ", erreurs, " out of ", len(data)
+                
+    def __repr__ (self):
+        return "Multiclass({})".format(sef.dico)
