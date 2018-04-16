@@ -1,3 +1,3 @@
 # multiset
 
-Creation of a multiset class for a school homework
+Creation of a multiset class for one of a student's homework
